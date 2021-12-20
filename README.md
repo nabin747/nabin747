@@ -1,11 +1,15 @@
 ### Hi there 👋
 
 ---
-[![Nabin's GitHub stats](https://github-readme-stats.vercel.app/api?username=nabin747)](https://github.com/nabin747/github-readme-stats)
+![Nabin's GitHub stats](https://github-readme-stats.vercel.app/api?username=nabin747&show_icons=true&theme=radical)
 
 
 ---
-![Nabin's GitHub stats](https://github-readme-stats.vercel.app/api?username=nabin747&hide=contribs,prs)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nabin747&repo=github-readme-stats)](https://github.com/nabin747/github-readme-stats)
+
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabin747&layout=compact)](https://github.com/nabin747/github-readme-stats)
+
 
 
 <!--
