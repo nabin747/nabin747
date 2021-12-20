@@ -4,8 +4,8 @@
 ![Nabin's GitHub stats](https://github-readme-stats.vercel.app/api?username=nabin747&show_icons=true&theme=radical)
 
 
----
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nabin747&repo=github-readme-stats)](https://github.com/nabin747/github-readme-stats)
+<!-- ---
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nabin747&repo=github-readme-stats)](https://github.com/nabin747/github-readme-stats) -->
 
 
 ---
