@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 ---
-![Nabin's GitHub stats](https://github-readme-stats.vercel.app/api?username=nabin747&show_icons=true&theme=radical&count_private=true)
+![Nabin's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=nabin747&theme=dark&hide_border=false)<br/>
+
 
 
 <!-- ---
