@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ---
-![Nabin's GitHub stats](https://github-readme-stats.vercel.app/api?username=nabin747&show_icons=true&theme=radical)
+![Nabin's GitHub stats](https://github-readme-stats.vercel.app/api?username=nabin747&show_icons=true&theme=radical&count_private=true)
 
 
 <!-- ---
@@ -12,8 +12,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabin747&theme=blue-green)](https://github.com/thenawaraj/github-readme-stats)
 
-
-[![Nabin's Github Stats](https://github-readme-stats.vercel.app/api?username=nabin747&theme=dark&count_private=true&show_icons=true&include_all_commits=true)
 
 
 
