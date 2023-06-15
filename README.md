@@ -13,7 +13,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabin747&theme=blue-green)](https://github.com/thenawaraj/github-readme-stats)
 
 
-https://github-readme-stats.vercel.app/api?username=nabin747&theme=dark&count_private=true&show_icons=true&include_all_commits=true
+[![Nabin's Github Stats](https://github-readme-stats.vercel.app/api?username=nabin747&theme=dark&count_private=true&show_icons=true&include_all_commits=true)
 
 
 
