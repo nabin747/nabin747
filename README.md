@@ -12,7 +12,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabin747&theme=blue-green)](https://github.com/thenawaraj/github-readme-stats)
 
-[![Nabin's GitHub stats](https://github-readme-stats.vercel.app/api?username=nabin747)](https://github.com/nabin747/github-readme-stats)
 
 
 
