@@ -9,7 +9,9 @@
 
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabin747&layout=compact)](https://github.com/nabin747/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabin747&theme=blue-green)](https://github.com/thenawaraj/github-readme-stats)
+
 
 
 
