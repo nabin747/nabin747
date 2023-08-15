@@ -10,6 +10,7 @@
 
 
 ---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabin747&theme=blue-green)](https://github.com/nabin747/github-readme-stats)
 
 
 
