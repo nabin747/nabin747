@@ -6,13 +6,6 @@
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nabin747&repo=github-readme-stats)](https://github.com/nabin747/github-readme-stats)
-
-
----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabin747&theme=blue-green)](https://github.com/nabin747/github-readme-stats)
-
-
 
 
 
