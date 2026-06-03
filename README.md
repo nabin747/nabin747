@@ -13,7 +13,7 @@
 ![Git](https://img.shields.io/badge/git-e84d31?style=for-the-badge&logo=git&logoColor=white) 
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white") 
 ### GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nabin747&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=nabin747&theme=gruvbox-duo&hide_border=true&short_numbers=true)](https://git.io/streak-stats)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nabin747&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nabin747&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
