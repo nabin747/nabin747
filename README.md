@@ -1,23 +1,161 @@
-### Languages and Tools:
- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
- ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
- ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
- ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) 
- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
- ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
- ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-  ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
-![Git](https://img.shields.io/badge/git-e84d31?style=for-the-badge&logo=git&logoColor=white) 
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white") 
-### GitHub Stats:
-[![GitHub Streak](https://streak-stats.demolab.com?user=nabin747&theme=gruvbox-duo&hide_border=true&short_numbers=true)](https://git.io/streak-stats)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nabin747&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nabin747&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- ============ HEADER BANNER ============ -->
+<div align="center">
 
----
-[![](https://visitcount.itsvg.in/api?id=nabin747&icon=0&color=0)](https://visitcount.itsvg.in)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Nabin%20Shrestha&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%E2%80%A2%20AI%20%E2%80%A2%20Data%20Engineer&descAlignY=60&descSize=20&animation=fadeIn" alt="header" />
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Animated typing subtitle -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=600&color=58A6FF&center=true&vCenter=true&width=720&lines=Building+at+the+intersection+of+web%2C+data%2C+and+AI;Cloudflare+Workers+%E2%80%A2+TanStack+Start+%E2%80%A2+Palantir+Foundry;Based+in+Kathmandu%2C+Nepal+%F0%9F%87%B3%F0%9F%87%B5" alt="subtitle" />
+
+<br/><br/>
+
+<a href="https://linkedin.com/in/nabin747"><img src="https://img.shields.io/badge/LinkedIn-1f6feb?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:nabin747@example.com"><img src="https://img.shields.io/badge/Email-1f6feb?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/nabin747"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<img src="https://komarev.com/ghpvc/?username=nabin747&label=Profile+views&color=1f6feb&style=for-the-badge" alt="views" />
+
+</div>
+
+<br/>
+
+<!-- ============ ABOUT ============ -->
+## &nbsp;🧑‍💻&nbsp; About Me
+
+```ts
+const nabin = {
+  location   : "Kathmandu, Nepal 🇳🇵",
+  role       : "Full-Stack Developer · AI/Data Engineer",
+  currently  : ["TanStack Start", "Cloudflare Workers/Pages", "Palantir Foundry AIP"],
+  learning   : ["RAG pipelines", "LLM evals", "Agentic AI systems"],
+  interests  : ["NEPSE investing", "System architecture", "Nepal Army OCC prep"],
+  askMeAbout : ["TypeScript", "Cloudflare", "Full-stack architecture", "Palantir Foundry"],
+  funFact    : "I debug production and read NEPSE candlestick charts with equal intensity",
+};
+```
+
+<br/>
+
+<!-- ============ TECH STACK ============ -->
+## &nbsp;🛠️&nbsp; Tech Stack
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**Frontend**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TanStack](https://img.shields.io/badge/TanStack_Start-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-0081CB?style=flat-square&logo=mui&logoColor=white)
+
+</td>
+<td valign="top" width="50%">
+
+**Backend & Infrastructure**
+
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Cloudflare Workers](https://img.shields.io/badge/CF_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Cloudflare Pages](https://img.shields.io/badge/CF_Pages-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+**AI / Data Engineering**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Palantir Foundry](https://img.shields.io/badge/Palantir_Foundry-1A1A1A?style=flat-square&logo=palantir&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+
+</td>
+<td valign="top" width="50%">
+
+**Tools & DevOps**
+
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/Actions-2671E5?style=flat-square&logo=githubactions&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Wrangler](https://img.shields.io/badge/Wrangler-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ============ BUILDING ============ -->
+## &nbsp;🚀&nbsp; What I'm Building
+
+| Project | Stack | Status |
+|---|---|:---:|
+| 🌐 &nbsp;Full-stack web apps | TanStack Start · Cloudflare Pages · TypeScript | 🟢 Active |
+| 🤖 &nbsp;AI / Data pipelines | Palantir Foundry · RAG · Knowledge Graphs | 🟢 Active |
+| 📈 &nbsp;NEPSE analysis tooling | Python · Data Engineering | 🟡 Ongoing |
+| 🏢 &nbsp;Local business websites | HTML · CSS · JS | 🟢 Active |
+
+<br/>
+
+<!-- ============ STATS ============ -->
+## &nbsp;📊&nbsp; GitHub Stats
+
+<div align="center">
+
+<!--
+  Static stats image generated by the Metrics GitHub Action (see metrics.yml).
+  The Action commits github-metrics.svg into this repo and refreshes it daily,
+  so it never rate-limits and never shows a broken image.
+-->
+<img src="https://raw.githubusercontent.com/nabin747/nabin747/main/github-metrics.svg" alt="GitHub metrics" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=nabin747&theme=highcontrast&hide_border=true&background=0d1117&ring=58a6ff&fire=1f6feb&currStreakLabel=58a6ff&date_format=M%20j%5B%2C%20Y%5D" alt="streak" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=nabin747&theme=nord&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="trophies" />
+
+</div>
+
+<br/>
+
+<!-- ============ SNAKE ============ -->
+## &nbsp;🐍&nbsp; Contribution Graph
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nabin747/nabin747/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nabin747/nabin747/output/github-contribution-grid-snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/nabin747/nabin747/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+> **Setup (one time):** add the included `snake.yml` to `.github/workflows/snake.yml` in this repo, then go to **Settings → Actions → General → Workflow permissions** and select **Read and write permissions**. Run it once via the **Actions** tab → *Generate Snake Animation* → **Run workflow**. It creates the `output` branch the images above read from, and refreshes daily after that.
+
+<br/>
+
+<!-- ============ CONNECT ============ -->
+## &nbsp;📫&nbsp; Let's Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/nabin747"><img src="https://img.shields.io/badge/LinkedIn-Nabin_Shrestha-1f6feb?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:nabinshrestha747@gmail.com"><img src="https://img.shields.io/badge/Email-Reach_Out-1f6feb?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/nabin747"><img src="https://img.shields.io/badge/GitHub-@nabin747-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
+<br/><br/>
+
+<i>"Write code that is easy to delete, not easy to extend."</i>
+
+</div>
+
+<!-- ============ FOOTER ============ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=120&section=footer" alt="footer" />
