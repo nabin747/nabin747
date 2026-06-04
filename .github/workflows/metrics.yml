@@ -1,0 +1,43 @@
+name: Metrics
+
+on:
+  # Refresh once a day at midnight UTC
+  schedule:
+    - cron: "0 0 * * *"
+  # Allow manual runs from the Actions tab
+  workflow_dispatch:
+  # Run on push to main so you can test immediately
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # A classic Personal Access Token stored as a repo secret (see setup notes).
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # The output file committed to your repo. The README points at this name.
+          filename: github-metrics.svg
+
+          user: nabin747
+          template: classic
+          config_timezone: Asia/Kathmandu
+
+          # Sections of the main panel
+          base: header, activity, community, repositories, metadata
+
+          # 3D-style full-year contribution calendar (the standout visual)
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          # Language breakdown with sizes and percentages
+          plugin_languages: yes
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 8
