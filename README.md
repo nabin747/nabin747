@@ -9,7 +9,7 @@
 <br/><br/>
 
 <a href="https://linkedin.com/in/nabin747"><img src="https://img.shields.io/badge/LinkedIn-1f6feb?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:nabin747@example.com"><img src="https://img.shields.io/badge/Email-1f6feb?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="mailto:nabinshrestha747@gmail.com"><img src="https://img.shields.io/badge/Email-1f6feb?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/nabin747"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <img src="https://komarev.com/ghpvc/?username=nabin747&label=Profile+views&color=1f6feb&style=for-the-badge" alt="views" />
 
@@ -114,14 +114,6 @@ const nabin = {
   so it never rate-limits and never shows a broken image.
 -->
 <img src="https://raw.githubusercontent.com/nabin747/nabin747/main/github-metrics.svg" alt="GitHub metrics" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=nabin747&theme=highcontrast&hide_border=true&background=0d1117&ring=58a6ff&fire=1f6feb&currStreakLabel=58a6ff&date_format=M%20j%5B%2C%20Y%5D" alt="streak" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=nabin747&theme=nord&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="trophies" />
 
 </div>
 
