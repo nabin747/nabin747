@@ -26,7 +26,6 @@ const nabin = {
   role       : "Full-Stack Developer · AI/Data Engineer",
   currently  : ["TanStack Start", "Cloudflare Workers/Pages", "Palantir Foundry AIP"],
   learning   : ["RAG pipelines", "LLM evals", "Agentic AI systems"],
-  interests  : ["NEPSE investing", "System architecture", "Nepal Army OCC prep"],
   askMeAbout : ["TypeScript", "Cloudflare", "Full-stack architecture", "Palantir Foundry"],
   funFact    : "I debug production and read NEPSE candlestick charts with equal intensity",
 };
@@ -129,9 +128,6 @@ const nabin = {
     <img alt="snake animation" src="https://raw.githubusercontent.com/nabin747/nabin747/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
-
-> **Setup (one time):** add the included `snake.yml` to `.github/workflows/snake.yml` in this repo, then go to **Settings → Actions → General → Workflow permissions** and select **Read and write permissions**. Run it once via the **Actions** tab → *Generate Snake Animation* → **Run workflow**. It creates the `output` branch the images above read from, and refreshes daily after that.
-
 <br/>
 
 <!-- ============ CONNECT ============ -->
