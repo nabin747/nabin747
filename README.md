@@ -14,6 +14,9 @@
 <img src="https://komarev.com/ghpvc/?username=nabin747&label=Profile+views&color=1f6feb&style=for-the-badge" alt="views" />
 
 </div>
+<p align="center">
+  <a href="https://nabenshrestha.com.np/"><b>nabenshrestha.com.np</b></a> — portfolio, writing and a browser arcade
+</p>
 
 <br/>
 
